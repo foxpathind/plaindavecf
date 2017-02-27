@@ -1,0 +1,21 @@
+Title: CF Test Site
+
+----
+
+Text: Here is the test site
+
+----
+
+Tags: testing, mysite, kirby, daveherr
+
+----
+
+Description: This is a test of the kirby web site system
+
+----
+
+Linkedin: 
+
+----
+
+Twitter: 

@@ -1,0 +1,29 @@
+header {
+	padding-top: 45px;
+}
+nav {
+	float:right;
+    padding-top: 14.5px;
+    padding-bottom: 14.5px;
+    
+}
+
+
+nav li {
+		display:inline-block;
+	}
+
+nav a{
+		display: block;
+		padding:12px 21px;
+		font-family: "Nunito", sans-serif;
+		color: #777;
+		font-size: 150%;
+		text-decoration: none;
+	}
+
+nav a:hover {
+	color: #e95353;
+	transition: color 1s ease;
+
+}

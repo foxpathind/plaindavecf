@@ -1,0 +1,22 @@
+title: Page
+pages: true
+files: true
+fields:
+  title:
+    label: Site Title
+    type:  text
+  tags: 
+    label: Tags
+  description:
+    label: Description
+    type: textarea
+  linkedin:
+    label: Linkedin
+    type: text
+    width: 1/2
+  twitter:
+    label: twitter
+    type: text
+    width: 1/2
+
+
