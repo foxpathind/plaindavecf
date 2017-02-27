@@ -1,0 +1,13 @@
+title: Page
+pages: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  headertext:
+    label: Header Text
+    type:  textarea
+  body:
+    label: Body copy
+    type: textarea 
