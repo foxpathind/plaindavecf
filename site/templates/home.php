@@ -5,7 +5,7 @@
 
 <main>
 	<div class="container home-header">
-		<div class= "row">
+		<div>
   			<div class="col-lg-6">
  				<h1><?= $page->headertext() ?></h1>
 			</div>

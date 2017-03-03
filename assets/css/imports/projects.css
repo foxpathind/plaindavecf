@@ -1,0 +1,25 @@
+.projects {
+margin-top:64px;
+}
+
+.project:hover img {
+  bottom: 0;
+}
+
+
+.project-image {
+	position:relative;
+	overflow: hidden;
+	height: 330px;
+	background: skyblue;
+	padding:30px;
+	
+
+}
+
+.project-image img {
+	transition: bottom 0.3s ease;
+	text-align:center;
+	position: absolute;
+	bottom: -50px;
+}
