@@ -1,0 +1,18 @@
+title: Project
+pages: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 1/2
+  author:
+    label: Author
+    type: text
+    width: 1/2
+  tags:
+    label: tags
+    type: tags
+  description:
+    label: Description
+    type:  textarea

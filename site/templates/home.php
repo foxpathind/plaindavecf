@@ -19,9 +19,6 @@
 			<a href="#">Title Page</a>
 			<hr>
 		</div>
-	<div class="container">
-		<?php snippet('projects'); ?>
-	</div>	
 </main>
 
 <?php snippet('footer') ?>

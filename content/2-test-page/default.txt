@@ -1,9 +1,0 @@
-Title: Test Page
-
-----
-
-Text: heres some text
-
-----
-
-Body: here's the body
