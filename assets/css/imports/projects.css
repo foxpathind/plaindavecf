@@ -12,7 +12,6 @@ margin-top:64px;
 	position:relative;
 	overflow: hidden;
 	height: 330px;
-	background: skyblue;
 	padding:30px;
 	
 
@@ -24,4 +23,9 @@ margin-top:64px;
 	position: absolute;
 	bottom: -100px;
 	width: 300px;
+}
+
+.project-title h2 {
+	font-size: 105%;
+
 }
