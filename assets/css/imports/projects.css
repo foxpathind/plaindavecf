@@ -2,27 +2,27 @@
 margin-top:64px;
 }
 
+/* this will move any image in the project class up 30 pixels from it's original position */
 .project:hover img {
-  
-  bottom: 0;
+  bottom: 30px;
 }
 
-
+/* image container with background color */
 .project-image {
 	position:relative;
 	overflow: hidden;
-	height: 330px;
+	height: 410px;
 	padding:30px;
 	
-
 }
 
+/* have to set the image width in style, should be same as the thumb function forcing to a width - see projects.php */
 .project-image img {
 	transition: bottom 0.3s ease;
 	text-align:center;
 	position: absolute;
-	bottom: -100px;
-	width: 300px;
+	bottom: -50px;
+	width: 500px;
 }
 
 .project-title h2 {
