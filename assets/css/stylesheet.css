@@ -4,8 +4,8 @@
 @import "imports/grid.css" ;
 @import "imports/body.css" ;
 @import "imports/home.css" ;
-@import "imports/projects.css";
-
+@import "imports/projects.css" ;
+@import "imports/project.css" ;
 *,
 *:before,
 *:after {

@@ -1,10 +1,8 @@
 <?php snippet('head') ?>
 
 
-<?php snippet('header') ?>
+<?php snippet('header_project') ?>
 
-<div class="container">
-	<?php snippet('projects') ?>
-</div>	
+
 
 <?php snippet('footer') ?>
