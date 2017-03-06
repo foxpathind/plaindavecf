@@ -15,3 +15,7 @@ Description:
 ----
 
 Bgcolor: #14909e
+
+----
+
+Headercolor: light-nav

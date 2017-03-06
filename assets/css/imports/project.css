@@ -1,5 +1,11 @@
 .header-project {
+	height: 550px;
+}
 
- height: 550px;
+.light-nav {
+color: #f5f5f5;
+}
 
+.dark-nav {
+	color: #333333;
 }

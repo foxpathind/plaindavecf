@@ -4,5 +4,4 @@
 <?php snippet('header_project') ?>
 
 
-
 <?php snippet('footer') ?>

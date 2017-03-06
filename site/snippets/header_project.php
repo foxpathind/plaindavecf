@@ -11,7 +11,7 @@
   	<nav>
   		<ul>
   		<?php foreach($pages->visible() as $item): ?>
-  			<li><a href="<?php echo $item->url() ?>"><?php echo html($item->title()) ?></a></li>
+  			<li><a href="<?php echo $item->url() ?>" class="<?php echo $page->headercolor()?>"> <?php echo html($item->title()) ?></a></li>
   		<?php endforeach ?>
 
 		</ul>

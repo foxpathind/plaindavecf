@@ -23,3 +23,7 @@ Description: has description
 ----
 
 Bgcolor: #8c44c7
+
+----
+
+Headercolor: dark-nav

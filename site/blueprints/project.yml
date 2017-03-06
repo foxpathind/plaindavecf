@@ -5,15 +5,22 @@ fields:
   title:
     label: Title
     type:  text
-    width: 1/3
+    width: 1/2
   author:
     label: Author
     type: text
-    width: 1/3
+    width: 1/2
   bgcolor:
     label: Background Color
     type: color
     width: 1/3
+  headercolor:
+    label: Header Nav color
+    type: select
+    options:
+      light-nav: Light
+      dark-nav: Dark
+    width: 2/3
   tags:
     label: tags
     type: tags
