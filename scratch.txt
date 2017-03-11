@@ -1,1 +1,10 @@
-scratch.txt
+
+
+                <img src="<?php echo $project->image() ?>">
+
+                    <?php foreach ($page->children()->visible()->flip() as $project): ?>
+
+    <?php endforeach ?>
+
+
+<?php echo $project->image() ?>
