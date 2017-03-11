@@ -19,3 +19,11 @@ Bgcolor: #14909e
 ----
 
 Headercolor: light-nav
+
+----
+
+Headerimage: 01-16 1075-01C btf robert graham day-crop-cf.jpg
+
+----
+
+Cardimage: 06-16-1104-05d-stn-town-and-country-greek.jpg

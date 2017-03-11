@@ -2,6 +2,12 @@ title: Project
 pages: true
 files: true
 fields:
+  cardimage:
+    label: Project Card image
+    type: image
+  headerimage:
+    label: Project Page header image
+    type: image
   title:
     label: Title
     type:  text

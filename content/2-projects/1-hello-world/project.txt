@@ -26,4 +26,12 @@ Bgcolor: #8c44c7
 
 ----
 
-Headercolor: dark-nav
+Headercolor: light-nav
+
+----
+
+Headerimage: 06-16 1098-01C stn wallpaper glasses.jpg
+
+----
+
+Cardimage: 06-13-01c-1012-stn-departures-g7l-ring.jpg

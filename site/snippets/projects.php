@@ -9,7 +9,8 @@
 		<a href="<?php echo $project->url() ?>">
 			<div class="project">
 				<div class="project-image" style="background-color:<?php echo $project->bgcolor() ?>">
-					<?php echo thumb($project->image(), array('width'=> 500, 'height'=>350,'crop'=>true)) ?>
+					<!--when using file chosen in the panel you need to use the toFile() function before you can work wiht it -->
+					<?php echo thumb($project->cardimage()->toFile(), array('width'=> 500, 'height'=>350,'crop'=>true)) ?>
 				</div>
 				<div class="project-title">
 					<h2><?php echo $project->title() ?> </h2>

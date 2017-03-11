@@ -1,0 +1,29 @@
+Title: Hello World 3
+
+----
+
+Author: cFxpth
+
+----
+
+Tags: testtag2,testtag3
+
+----
+
+Description: 
+
+----
+
+Bgcolor: #ffbf00
+
+----
+
+Headercolor: dark-nav
+
+----
+
+Headerimage: 06-16 1104-04E stn town and country birds and flowers.jpg
+
+----
+
+Cardimage: 09-13-09c-1018-stn-departures-g7l-cover.jpg
